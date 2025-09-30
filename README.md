@@ -1,74 +1,42 @@
 # Olá, eu sou o Vítor Hugo! 🖖🏿
-### Desenvolvedor Back-end focado na construção de APIs robustas e sistemas escaláveis com Python.
 
-<br>
+### Profissional de Infraestrutura de TI em transição para Cloud & DevOps. Foco em automação com Python, Infraestrutura como Código (Terraform) e orquestração com Docker na AWS.
 
-## Sobre mim
+---
 
-Sou um profissional de tecnologia com uma trajetória sólida e direcionada para a **Engenharia de Software e o desenvolvimento Back-end**. Minha paixão é transformar problemas complexos em soluções eficientes e bem estruturadas.
+### Sobre mim
 
--  **Especializado** em **Desenvolvimento de Sistemas com Python**, com conhecimento aprofundado na criação de **APIs RESTful** e na arquitetura de microsserviços.
-- Graduado em **Análise e Desenvolvimento de Sistemas** e **Sistemas para Internet**, o que me deu uma base sólida em todo o ciclo de vida do software.
-- Atualmente cursando Bacharelado em **Engenharia de Software**, aprofundando em padrões de projeto, qualidade de código e arquiteturas limpas (Clean Architecture).
-- Meu conhecimento em **Ciência de Dados** e **Front-end** me proporciona uma visão completa do produto, permitindo-me construir APIs que não apenas funcionam, mas são inteligentes e fáceis de consumir.
-- Fluente em Inglês (conclusão em 2023), pronto para colaborar em ambientes de trabalho globais.
+Com mais de 4 anos de experiência prática em **infraestrutura de TI**, incluindo administração de servidores, redes e segurança, estou agora direcionando minha carreira para a cultura **DevOps** e **Cloud Computing**. Meu objetivo é usar minha base sólida em operações para construir e manter infraestruturas de software escaláveis, seguras e altamente automatizadas.
 
-<br>
+* 👨‍💻 Atualmente, estou focado em aprofundar meus conhecimentos práticos nas tecnologias que formam a espinha dorsal da nuvem moderna.
+* 🎓 Cursando Bacharelado em **Engenharia de Software** para fortalecer meus conhecimentos em arquitetura e ciclo de vida de desenvolvimento.
+* 🛠️ Apaixonado por automação e por resolver problemas complexos, utilizando **Python** como minha principal ferramenta para criar scripts e soluções eficientes.
+* 🌐 Fluente em Inglês, pronto para colaborar em ambientes de trabalho globais.
 
-## 🚀 Tecnologias e Ferramentas
+---
 
-Aqui estão as tecnologias com as quais trabalho atualmente para desenvolver minhas soluções:
+### 🚀 Tecnologias e Ferramentas
 
-**💻 Linguagens:**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
-  </a>
-</p>
+Aqui estão as tecnologias que compõem meu ecossistema de estudos e projetos:
 
-**⚙️ Back-end:**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs" />
-  </a>
-</p>
+| Cloud & DevOps                               | Automação & Programação         | Infraestrutura & SO            | Bancos de Dados         |
+| -------------------------------------------- | ------------------------------- | ------------------------------ | ----------------------- |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)         | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)    | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)        | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)       | ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)         |
+| ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)           | ![VMware](https://img.shields.io/badge/VMware-666666?style=for-the-badge&logo=vmware&logoColor=white)         |                         |
 
-**🗃️ Bancos de Dados & ORMs:**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-  </a>
-</p>
+---
 
-**🛠️ Ferramentas & DevOps:**
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux" />
-  </a>
-</p>
+### 🎯 Meu Foco Atual
 
-<br>
+Estou desenvolvendo ativamente um projeto de ponta a ponta para demonstrar minhas habilidades em Cloud & DevOps. O objetivo é fazer o deploy de uma **API em Python conteinerizada com Docker**, com toda a infraestrutura na **AWS provisionada via Terraform**.
 
-## 🎯 O que estou fazendo agora
+Este projeto será meu principal case de estudo e estará fixado no meu perfil em breve.
 
-Atualmente, estou focado no desenvolvimento do **"TaskFlow API"**, um sistema de gerenciamento de projetos pessoais. Neste projeto, estou aplicando conceitos de:
+---
 
-- Autenticação de usuários com **JWT**.
-- Operações CRUD complexas com **FastAPI** e **SQLAlchemy**.
-- Conteinerização com **Docker** e **PostgreSQL**.
-- Testes unitários e de integração com **Pytest**.
+### 📫 Vamos Conectar?
 
-*Confira o repositório fixado abaixo!*
+Estou buscando ativamente por oportunidades em **Cloud, DevOps ou SRE (Site Reliability Engineering)** onde eu possa aplicar minha experiência em infraestrutura e minhas novas habilidades em automação e nuvem. Vamos conversar sobre como posso agregar valor à sua equipe!
 
-<br>
-
-## 📫 Vamos Conectar?
-
-Estou buscando ativamente minha **primeira oportunidade como Desenvolvedor Back-end Júnior** e adoraria conversar sobre como minhas habilidades podem agregar valor à sua equipe.
-
-<p>
-  <a href="https://www.linkedin.com/in/hugoovitoor/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hugoo.vitoor@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-</p>
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugoovitoor/)
