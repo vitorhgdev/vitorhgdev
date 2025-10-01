@@ -11,7 +11,7 @@ Com mais de 4 anos de experiência prática em **infraestrutura de TI**, incluin
 * 👨‍💻 Atualmente, estou focado em aprofundar meus conhecimentos práticos nas tecnologias que formam a espinha dorsal da nuvem moderna.
 * 🎓 Cursando Bacharelado em **Engenharia de Software** para fortalecer meus conhecimentos em arquitetura e ciclo de vida de desenvolvimento.
 * 🛠️ Apaixonado por automação e por resolver problemas complexos, utilizando **Python** como minha principal ferramenta para criar scripts e soluções eficientes.
-* 🌐 Fluente em Inglês, pronto para colaborar em ambientes de trabalho globais.
+* 🌐 Inglês técnico, pronto para colaborar em ambientes de trabalho globais.
 
 ---
 
