@@ -15,24 +15,33 @@ Com mais de 4 anos de experiência prática em **infraestrutura de TI**, incluin
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias e Ferramentas
 
-Aqui estão as tecnologias que compõem meu ecossistema de estudos e projetos:
-
-| Cloud & DevOps                               | Automação & Programação         | Infraestrutura & SO            | Bancos de Dados         |
-| -------------------------------------------- | ------------------------------- | ------------------------------ | ----------------------- |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)         | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)    | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)        | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)       | ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)         |
-| ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)           | ![VMware](https://img.shields.io/badge/VMware-666666?style=for-the-badge&logo=vmware&logoColor=white)         |                         |
-
+<p align="left">
+  <b>Cloud & DevOps:</b><br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+</p>
+<p align="left">
+  <b>Automação & Programação:</b><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
+<p align="left">
+  <b>Infraestrutura & Bancos de Dados:</b><br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server">
+</p>
 ---
 
-### 🎯 Meu Foco Atual
+## 🎯 Projeto em Destaque
 
-Estou desenvolvendo ativamente um projeto de ponta a ponta para demonstrar minhas habilidades em Cloud & DevOps. O objetivo é fazer o deploy de uma **API em Python conteinerizada com Docker**, com toda a infraestrutura na **AWS provisionada via Terraform**.
-
-Este projeto será meu principal case de estudo e estará fixado no meu perfil em breve.
-
+### [Projeto DevOps: API Multi-Container com Deploy Automatizado na AWS](https://github.com/vitorhgdev/projeto-devops-aws)
+Um projeto de ponta-a-ponta que simula um ambiente de produção real. A aplicação (API em Python + Postgres) é containerizada com `Docker`, testada automaticamente com `GitHub Actions` (CI/CD) e provisionada de forma segura na `AWS` com `Terraform` (IaC).
 ---
 
 ### 📫 Vamos Conectar?
