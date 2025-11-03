@@ -36,12 +36,14 @@ Com mais de 4 anos de experiência prática em **infraestrutura de TI**, incluin
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server">
 </p>
+
 ---
 
 ## 🎯 Projeto em Destaque
 
 ### [Projeto DevOps: API Multi-Container com Deploy Automatizado na AWS](https://github.com/vitorhgdev/projeto-devops-aws)
 Um projeto de ponta-a-ponta que simula um ambiente de produção real. A aplicação (API em Python + Postgres) é containerizada com `Docker`, testada automaticamente com `GitHub Actions` (CI/CD) e provisionada de forma segura na `AWS` com `Terraform` (IaC).
+
 ---
 
 ### 📫 Vamos Conectar?
